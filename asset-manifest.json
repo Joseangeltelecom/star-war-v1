@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://joseangeltelecom.github.io/STAR-WAR/static/css/main.270cab0e.css",
-    "main.js": "https://joseangeltelecom.github.io/STAR-WAR/static/js/main.ef3ee268.js",
-    "static/media/logo.png": "https://joseangeltelecom.github.io/STAR-WAR/static/media/logo.03b92289a53f8c47803b.png",
-    "index.html": "https://joseangeltelecom.github.io/STAR-WAR/index.html",
-    "main.270cab0e.css.map": "https://joseangeltelecom.github.io/STAR-WAR/static/css/main.270cab0e.css.map",
-    "main.ef3ee268.js.map": "https://joseangeltelecom.github.io/STAR-WAR/static/js/main.ef3ee268.js.map"
+    "main.css": "https://joseangeltelecom.github.io/star-war-v1/static/css/main.270cab0e.css",
+    "main.js": "https://joseangeltelecom.github.io/star-war-v1/static/js/main.05caf934.js",
+    "static/media/logo.png": "https://joseangeltelecom.github.io/star-war-v1/static/media/logo.03b92289a53f8c47803b.png",
+    "index.html": "https://joseangeltelecom.github.io/star-war-v1/index.html",
+    "main.270cab0e.css.map": "https://joseangeltelecom.github.io/star-war-v1/static/css/main.270cab0e.css.map",
+    "main.05caf934.js.map": "https://joseangeltelecom.github.io/star-war-v1/static/js/main.05caf934.js.map"
   },
   "entrypoints": [
     "static/css/main.270cab0e.css",
-    "static/js/main.ef3ee268.js"
+    "static/js/main.05caf934.js"
   ]
 }
