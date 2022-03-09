@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://joseangeltelecom.github.io/STAR-WAR/static/css/main.270cab0e.css",
+    "main.js": "https://joseangeltelecom.github.io/STAR-WAR/static/js/main.ef3ee268.js",
+    "static/media/logo.png": "https://joseangeltelecom.github.io/STAR-WAR/static/media/logo.03b92289a53f8c47803b.png",
+    "index.html": "https://joseangeltelecom.github.io/STAR-WAR/index.html",
+    "main.270cab0e.css.map": "https://joseangeltelecom.github.io/STAR-WAR/static/css/main.270cab0e.css.map",
+    "main.ef3ee268.js.map": "https://joseangeltelecom.github.io/STAR-WAR/static/js/main.ef3ee268.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.270cab0e.css",
+    "static/js/main.ef3ee268.js"
+  ]
+}
